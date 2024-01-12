@@ -1,0 +1,8 @@
+langchain
+streamlit
+pandas
+python-dotenv
+langchain-experimental
+tabulate
+openai
+langchain_openai
